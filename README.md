@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Rio1002/AR-Foot-Try-Ons-Android-App/blob/main/banner.png" alt="Banner" style="border-radius: 12px;" />
+  <img src="https://github.com/Rio1002/AR-Foot-Try-Ons-Android-App/blob/main/banner.png" alt="Banner" style="border-radius: 12px;" width="60%" />
 </p>
 
 ---
