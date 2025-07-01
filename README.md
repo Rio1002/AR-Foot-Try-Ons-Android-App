@@ -52,9 +52,12 @@ This **innovative Android application** redefines the way we shop for footwear b
 ## 📸 Screenshots & Demos
 
 <p align="center">
-  <img src="https://via.placeholder.com/200x400?text=AR+Try-On+Demo" alt="Try-On" /> &nbsp;
-  <img src="https://via.placeholder.com/200x400?text=Shoe+Catalog+UI" alt="Catalog" /> &nbsp;
-  <img src="https://via.placeholder.com/200x400?text=Size+Adjustment" alt="Size Adjust" />
+  <img src="https://github.com/Rio1002/AR-Foot-Try-Ons-Android-App/blob/main/Screenshot%202025-06-08%20151923.png" /> &nbsp;
+  <img src="https://github.com/Rio1002/AR-Foot-Try-Ons-Android-App/blob/main/Screenshot%202025-06-08%20151946.png" /> &nbsp;
+  <img src="https://github.com/Rio1002/AR-Foot-Try-Ons-Android-App/blob/main/Screenshot%202025-06-08%20152110.png" /> &nbsp;
+  <img src="https://github.com/Rio1002/AR-Foot-Try-Ons-Android-App/blob/main/Screenshot%202025-06-08%20152140.png" /> &nbsp;
+  <img src="https://github.com/Rio1002/AR-Foot-Try-Ons-Android-App/blob/main/Screenshot%202025-06-08%20152249.png" /> &nbsp;
+  <img src="https://github.com/Rio1002/AR-Foot-Try-Ons-Android-App/blob/main/Screenshot%202025-06-08%20152327.png" />
 </p>
 
 > 🔍 *Replace these placeholders with your actual app screenshots or demo GIFs for better presentation.*
