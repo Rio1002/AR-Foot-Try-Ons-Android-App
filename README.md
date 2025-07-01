@@ -60,8 +60,6 @@ This **innovative Android application** redefines the way we shop for footwear b
   <img src="https://github.com/Rio1002/AR-Foot-Try-Ons-Android-App/blob/main/Screenshot%202025-06-08%20152327.png" />
 </p>
 
-> 🔍 *Replace these placeholders with your actual app screenshots or demo GIFs for better presentation.*
-
 ---
 
 ## 🚀 Getting Started
@@ -80,12 +78,7 @@ This **innovative Android application** redefines the way we shop for footwear b
    git clone https://github.com/Rio1002/AR-Foot-Try-Ons-Android-App.git
    ```
 
-2. **Open in Unity:**
-
-   * Launch Unity Hub
-   * Open the cloned folder as a new project
-
-3. **Deploy to Device:**
+2. **Deploy to Device:**
 
    * Connect your Android device via USB
    * Build the app using Unity’s Android Build Settings
